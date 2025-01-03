@@ -12,7 +12,7 @@ import io.restassured.http.ContentType;
 
 
 
-public class ToverifyAtivities {
+public class AtivitiesFromSwagger {
 
 	@Test
 	public void toVerifyGetActivities() {
